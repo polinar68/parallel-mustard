@@ -1,6 +1,6 @@
 ---
 layout: product
-id: '6.'
+id: '6.1'
 price: '100.00'
 title: Donec finibus
 description: Cras molestie faucibus ipsum ut vulputate.
