@@ -1,7 +1,7 @@
 ---
 layout: product
-id: '6'
-price: '100.00'
+id: '6.1'
+price: '150'
 title: Donec finibus
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/plant6.jpg

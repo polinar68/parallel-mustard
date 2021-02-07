@@ -60,4 +60,5 @@ sections:
       url: /store
       style: secondary
       arrow: true
+page_css_class: 'Nature '
 ---
